@@ -3,8 +3,8 @@ class Dripfetch < Formula
 
   desc "Customizable terminal system information display with animated rain"
   homepage "https://github.com/a-shygun/dripfetch"
-  url "https://files.pythonhosted.org/packages/source/d/dripfetch/dripfetch-0.2.0.tar.gz"
-  sha256 "0e8e47bf3bfa6f46b9ca085fd9745610795caded381fd6ea8f8db20f68ee9d93"
+  url "https://files.pythonhosted.org/packages/source/d/dripfetch/dripfetch-0.2.1.tar.gz"
+  sha256 "af0645401ab4e09ba3646168df947d87bc287b3b74ff529ea93acc5a5b55e8e3"
   license "MIT"
 
   depends_on "python@3.12"
